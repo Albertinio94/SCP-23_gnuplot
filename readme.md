@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 create file with characteristics similar to the one provided (f1.txt) or try that same file.
 
